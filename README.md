@@ -6,7 +6,7 @@
 
 #### this also includes an LCD display to follow along as the morse code is sounding
 
-any text file can be 'listened to'
+any text file can be stored on microSD card and 'listened to' 
 
 the inspiration for this project was from a ham radio operator K4FON who has a brilliant morse code trainer app
 
@@ -17,3 +17,5 @@ I found it difficult to slow down, speed up, change the tone/pitch of the morse 
 this is a starting point to make this project
 
 I hope to include more of the code that I have accumulated for this subject soon
+
+## I am interested in expanding this project to sort out an app or applet to brows the web or open up emails and listen to the content in morse code 
